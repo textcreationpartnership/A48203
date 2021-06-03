@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a Member of the late Parliament, concerning the debts of the nation</title>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48203</idno><idno type="EEBO-CITATION">99829290</idno>
+  <idno type="VID">33727</idno>
+  <idno type="EEBO-PROQUEST">2248496808</idno>
+  
+            <idno type="STC">Wing L1687</idno>
+            <idno type="STC">ESTC R217632</idno>
+            <idno type="PROQUEST">99829290</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829290e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33727)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1992:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a Member of the late Parliament, concerning the debts of the nation</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3 reads: A letter to a Member of the late Parliament, &amp;c.</note>
+                  <note>Reproduction of the original in the St. David's University College Library, Lampeter.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Economic conditions --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33727:1"/>
+            <pb facs="tcp:33727:1"/>
+            <p>A LETTER TO A MEMBER of the Late PARLIAMENT, CONCERNING The Debts OF THE NATION.</p>
+            <p>Printed in the Year 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:33727:2"/>
+            <pb n="1" facs="tcp:33727:2"/>
+            <head>
+               <hi>A LETTER TO</hi> A Member of the Late Parliament, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Dec.</hi> the 20th. 1700.</date>
+               </dateline>
+               <salute>SIR</salute>
+            </opener>
+            <p>I Have Receiv'd yours of the 4th Instant, in which you Desire an Account how much has been Raised by Parliament, from the 5th. of <hi>Nov.</hi> 1688, to the End of the Session of Par<g ref="char:EOLhyphen"/>liament 1699. And likewise what the present Debt at Interest is, and how much Paid <hi>per Ann.</hi> for the same, and what may be Annu<g ref="char:EOLhyphen"/>ally Paid off: With my Thoughts of the most Probable method, of soon discharging the Nation from the Debts contracted in the late War.</p>
+            <p>I shall therefore in Obedience to your Command, indeavour accor<g ref="char:EOLhyphen"/>ding to my Power, to give you full satisfaction; and if I fall short in any particular, it's for want of better Information.</p>
+            <p>For the Annual Grants I have taken the Stated Accounts of the Commissioners appointed by Parliament to the Year 1697. Since which I have referr'd to the Acts of Parliament. A List of which Grants you receive herewith.</p>
+            <p>For an Account of the present Debts at Interest, I take the State of them as they were the 19th. of <hi>Dec.</hi> 1699, and what was then paid for the same: which Account I have Examined, and tho' there are some very small Errors, yet the charge not being greater than it ought to be, I have made that my Standard: And have added one Collume more, to shew what each Article has repaid. from that day to this: which account you have likewise sent you.</p>
+            <p>As for the other Debts without Interest; they are now under the Examination of Commissioners, who are to lay them before the House of Commons as soon as Stated; and therefore shall at this time pass them by, without any other remark, then that they may be more, than to the Amount of the Forfeited Estates it. <hi>Ireland.</hi> The Re<g ref="char:EOLhyphen"/>versions of Annuities, are not in themselves a Debt: the Annuities being only chargeable with Interest: Tho' if that should be Reduced, they would then become a Debt, which makes me mention them.</p>
+            <pb n="2" facs="tcp:33727:3"/>
+            <p> It is to be observed in the Account above, that there has been paid off and discharged from the Principal this Year 912. 512 <hi>l.</hi> By reason whereof, I must therefore shew how much the Interest is run into, Arrear; there being several Deficient Funds, for which there is not provision of Interest, which will enable me to give a perfect Answer to your next question, <hi>viz.</hi> How much may be An<g ref="char:EOLhyphen"/>nually paid of. I have therefore sent you the Estimate of all the Branches of the Revenue in the Year 1699, as also those of the Ci<g ref="char:EOLhyphen"/>vil List. To which there is joyned a list of the Deficient Funds with their Interest; and the ballance how much may be paid off.</p>
+            <p>Lastly, I have added an account of what may be paid off in Six Years, if the Interest should continue as it is; and that the Revenue should be the same. And have in an other account, shewn what may be paid of and discharged in the like time, if Interest should be reduced to Five <hi>per C.</hi> which answers your last question.</p>
+            <p>On all which I have made some short remarks; which with all due submission, I leave to your Judgment, not doubting but they may be of some use to you, to improve, as your leasure and opportunity permits.</p>
+            <p>
+               <table>
+                  <head>An account of what has been Given by Parliament, from the 5th. of <hi>Nov.</hi> 1688, to the End of the Session of Parliament 1699 each Year.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>First</cell>
+                     <cell>1-184-786</cell>
+                     <cell>16</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Second</cell>
+                     <cell>2-535-452</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Third</cell>
+                     <cell>4-224-861</cell>
+                     <cell>7</cell>
+                     <cell>0 ¾</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Fourth</cell>
+                     <cell>3-337-268</cell>
+                     <cell>8</cell>
+                     <cell>9 ¾</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Fifth</cell>
+                     <cell>3-471-482</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sixth</cell>
+                     <cell>5-030-581</cell>
+                     <cell>9</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Seventh</cell>
+                     <cell>4-883-120</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Eighth</cell>
+                     <cell>7-961-469</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ninth</cell>
+                     <cell>11-887-160</cell>
+                     <cell> </cell>
+                     <cell>9 ¾</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>44-516-182</cell>
+                     <cell> </cell>
+                     <cell>5 ¼</cell>
+                     <cell>To the Conclusion of the Peace including the Civil List.</cell>
+                  </row>
+                  <row>
+                     <cell>Tenth</cell>
+                     <cell>4-499-999</cell>
+                     <cell>1</cell>
+                     <cell>11 ¾</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Eleventh</cell>
+                     <cell>1-684-015</cell>
+                     <cell>1</cell>
+                     <cell>11 ¾</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>6-184-014</cell>
+                     <cell>3</cell>
+                     <cell>11 ½</cell>
+                     <cell>Since the Peace Exclusive of the Civil List.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>44-516-182</cell>
+                     <cell> </cell>
+                     <cell>5 ¾</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>6-184-014</cell>
+                     <cell>3</cell>
+                     <cell>11 ½</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>50-700-196</cell>
+                     <cell>4</cell>
+                     <cell>4 ¾</cell>
+                     <cell>In all (except some Arrears) Expended</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="3" facs="tcp:33727:3"/>
+            <p>
+               <table>
+                  <head>An Estimate of all the Branches of the Reuenue <hi>1699</hi> and of the Civil List.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Excise Old and New, on Bear, Ale, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>855-601</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Customs Old, New, Add. and Continued Coals, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>1457-006</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Wine, Vineger, Tobacco and <hi>East-India</hi> Goods.</cell>
+                     <cell>1457-006</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Post Office, or Letter Money</cell>
+                     <cell>90 504</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Births, Marriages, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>50-000</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Double and Single Stamp'd Paper, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>80-000</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Houses, or Glass Windows</cell>
+                     <cell>45-000</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Salt in the several Branches</cell>
+                     <cell>240-000</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hackny Coaches</cell>
+                     <cell>2-800</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hawkers and Pedlars</cell>
+                     <cell>20-000</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Small Branches</cell>
+                     <cell>68-773</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">2-909-685</cell>
+                     <cell role="total">1</cell>
+                     <cell role="total">0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Civil List.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tonnage and Poundage, or Old Customes</cell>
+                     <cell>370-909</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Hereditary and Temporary Excise</cell>
+                     <cell>428-778</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Post Office, or Letter Money</cell>
+                     <cell>90-504</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Small Branches</cell>
+                     <cell>68-773</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Out of all which is paid in Clear Money 700.000<hi> l. per Ann.</hi>
+                     </cell>
+                     <cell>958964</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>To Pay Principal and Interest there will Remains</cell>
+                     <cell>1-950-720</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>The Interest then was</cell>
+                     <cell>1-201-003</cell>
+                     <cell>9</cell>
+                     <cell>8 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>To Pay Principal</cell>
+                     <cell>749-717</cell>
+                     <cell>0</cell>
+                     <cell>9 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>Interest Run into Arrear this Year</cell>
+                     <cell>183-681</cell>
+                     <cell>5</cell>
+                     <cell>6 ¼</cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="total">933-398</cell>
+                     <cell role="total">6</cell>
+                     <cell role="total">4</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>An Account of the Deficient Funds.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Leather from Coales</cell>
+                     <cell>504-438</cell>
+                     <cell>at 7 <hi>per C.</hi>
+                     </cell>
+                     <cell>35-310</cell>
+                     <cell>13</cell>
+                     <cell>2 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>Ex. Bills and Malt</cell>
+                     <cell>1-505-000</cell>
+                     <cell>at 7 12 1 <hi>per C.</hi>
+                     </cell>
+                     <cell>114-442</cell>
+                     <cell>14</cell>
+                     <cell>1 2/4</cell>
+                  </row>
+                  <row>
+                     <cell>Tickets</cell>
+                     <cell>1-505-000</cell>
+                     <cell>at 7 12 1 <hi>per C.</hi>
+                     </cell>
+                     <cell>114-442</cell>
+                     <cell>14</cell>
+                     <cell>1 2/4;</cell>
+                  </row>
+                  <row>
+                     <cell>First 3 s. Ayd</cell>
+                     <cell>424-099</cell>
+                     <cell>at 8 <hi>per C.</hi>
+                     </cell>
+                     <cell>33-927</cell>
+                     <cell>18</cell>
+                     <cell>2 ¾</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">2-433-537</cell>
+                     <cell> </cell>
+                     <cell role="total">183-681</cell>
+                     <cell role="total">5</cell>
+                     <cell role="total">6 ¼</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>An Account of the several Summs paid off from the Principal since the 19th. <hi>Dec.</hi> 1699.</head>
+                  <row>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>22-600</cell>
+                     <cell>at 5 <hi>per C.</hi>
+                     </cell>
+                     <cell>1-130</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>64-225</cell>
+                     <cell>at 6 <hi>per C.</hi>
+                     </cell>
+                     <cell>3-853</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>616-107</cell>
+                     <cell>at 7 <hi>per C.</hi>
+                     </cell>
+                     <cell>43-127</cell>
+                     <cell>9</cell>
+                     <cell>9 ½</cell>
+                  </row>
+                  <row>
+                     <cell>30-000</cell>
+                     <cell>at 7 12 1 <hi>per C.</hi>
+                     </cell>
+                     <cell>2-281</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>179-580</cell>
+                     <cell>at 8 <hi>per C.</hi>
+                     </cell>
+                     <cell>14-366</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell role="total">912-512</cell>
+                     <cell> </cell>
+                     <cell role="total">64-758</cell>
+                     <cell role="total">12</cell>
+                     <cell role="total">9 ½</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="4" facs="tcp:33727:4"/>
+            <p> A Computation of what may be paid off from the prin<g ref="char:EOLhyphen"/>cipal Debt in Six Years, according to the Proportion of Payment, betwixt the 19th. of <hi>Dec.</hi> 1699, and the 20th. of <hi>Dec.</hi> 1700, at 7 <hi>s.</hi> 2 <hi>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. per C.</hi> which was the nearest the Interest then paid off: as <hi>per Acc<seg rend="sup">t.</seg>
+               </hi> of the Payments.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The First Year</cell>
+                     <cell>912-512</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Second</cell>
+                     <cell>977-300</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Third</cell>
+                     <cell>1-046-688</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Fourth</cell>
+                     <cell>1-121-003</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Fifth</cell>
+                     <cell>1-200-694</cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Sixth</cell>
+                     <cell>1-285-944</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">6-544-143</cell>
+                     <cell role="total">10</cell>
+                     <cell role="total">0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>A Computation of what may be Paid off and Discharged in the same Time if the Interest were Reduced to Five <hi>per C.</hi>
+            </p>
+            <p>
+               <hi>Dec.</hi> the 20th. 1700. at 7 <hi>l.</hi> 2. <hi>per. C.</hi> The Debt stood thus</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Rest at Interest</cell>
+                     <cell>13-394-593</cell>
+                     <cell> </cell>
+                     <cell>paid for the same</cell>
+                     <cell>1-136-244</cell>
+                     <cell>16</cell>
+                     <cell>11 ¼</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>Which at 5 <hi>per C.</hi>
+                     </cell>
+                     <cell>669-729</cell>
+                     <cell>13</cell>
+                     <cell>more than 5 <hi>per C.</hi>
+                     </cell>
+                     <cell>466-515</cell>
+                     <cell>3</cell>
+                     <cell>11 ¼</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>912-512 1-379-027</item>
+                           <item>466-515 1-379-027</item>
+                        </list>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The First Year</cell>
+                     <cell>1-379-027</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Second</cell>
+                     <cell>1-447-978</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Third</cell>
+                     <cell>1-520-377</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Fourth</cell>
+                     <cell>1-596-396</cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Fifth</cell>
+                     <cell>1-676-215</cell>
+                     <cell>18</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Sixth</cell>
+                     <cell>1-760-024</cell>
+                     <cell>14</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">9-380-021</cell>
+                     <cell role="total">8</cell>
+                     <cell role="total">2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Argument for Reducing Interest, would by these Computations be much Stronger, if it were computed at what would be paid, were there no<g ref="char:EOLhyphen"/>thing of Deficiences: the Interest of which is run into Arrears in both Estimates. In the First of which there is 2 <hi>l.</hi> 2<hi> s. per C.</hi> Discounted for.</p>
+            <pb n="5" facs="tcp:33727:4"/>
+            <p> FRom what has been shewn of the Yearly Grants. The present Revenue: (Exclusive of the Currant Charge of each succeeding Year.) The Debt at Interest; And what is Paid <hi>per Ann.</hi> I think the Case stands thus.</p>
+            <p>During the first Eleven Years, there was Expended Five Millions <hi>per Ann.</hi> which is just Ten Shillings in the Pound on the Lands and Houses of <hi>England</hi> (if it be Computed that Four Shillings in the Pound Raised but Two Millions.)</p>
+            <p>According to which Computation the present Revenue, is Six Shillings in the Pound (within a Triffle;) the Currant Charge something more than Two Shillings; and will make altogether in Time of Peace Eight Shillings in the Pound as aforesaid.</p>
+            <p>Which must remain a Rent Charge on the Nation, so long as the Debts continue.</p>
+            <p>It is to be Observed, That one Year with the other, there has not been Raised on Land during the War, above Three Shillings in the Pound; the other Seven having been upon Labour (under which notion, I reckon Trade of all sorts.)</p>
+            <p>At present there is but Two on Land, and yet there are Six on Labour: Which shews of how great Consequence Labour ought to be Esteemed: And brings me to the reason we have to Lessen the Publick Interest.</p>
+            <p>For otherwise, the Debt must long continue, and Trade of consequence must Decrease.</p>
+            <p>For if it be Observed, that during the War, the best Estates have been raised by Trading with the <hi>Exchequer;</hi> (So that many of our Merchants and others have left off their former Employments, and turned their Money that way, or to Stock-jobbing; to the Pre<g ref="char:EOLhyphen"/>judice of Trade in general.) We may conclude that upon the same Reason the like Practice will continue, as long as they can make Eight or more <hi>per C.</hi> of their Money, without any other Hazard or Charge, then from the <hi>Exchange</hi> to the <hi>Exchequer:</hi> Where unto add, that such Money so Imployed, as it bears nothing of the Burthen or Charge of the Nation, so it keeps the sinews of Trade still un<g ref="char:EOLhyphen"/>der the Inconveniencies of War.</p>
+            <p>I cannot end thus without taking notice of what remains of worse Consequence, whilst the Nation stands thus Mortgaged.</p>
+            <p>For if any Foreign Nation should give us an Affront, in what Capacity shall we be to demand Satisfaction; when all the Branches of the Revenue are in Ingaged for so many Years to come: And
+<pb n="6" facs="tcp:33727:5"/>must remain so for more Years then I will venture to say (unless such measures are taken as have been intimated,) seeing that after the Expiration of the Year 1706. to which time most of them are continued; there will remain many Million to be Repaid.</p>
+            <p>I shall only hint to you what has been demonstrated in the Bal<g ref="char:EOLhyphen"/>lance of the Debt as above; that the Nation payes for one Year with the other, upwards of Four Hundred Thousand Pounds <hi>per Ann.</hi> more than Five <hi>per C.</hi> Interest.</p>
+            <p>Which Summs Rebated, would in a few Years Discharge the whole Debt, and free us from the great Imposts on Labour: And would by necessary consequence throw us into Trade; Disengage the Land of Taxes; and set us in an even Ballance of Trade with our Neighbours; secure all the Lenders their Principal and Five <hi>per Ct.</hi> And put all the Funds on an equal Par without Raising any new Tax, more than for the Currant service of each Year.</p>
+            <p>I shall conclude with saying that I think it consistent with the Power and Priviledge of Parliament thus to do; Otherwise they would not in Cases of Indispensible Necessity, have varied the man<g ref="char:EOLhyphen"/>ner of Security to the Lenders: Or, instead of making good the Defici<g ref="char:EOLhyphen"/>encies of several Fonds out of the next Aides as the Acts Promised; let them have continued to this day unprovided for.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33727:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:33727:6"/>
+            <pb facs="tcp:33727:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
